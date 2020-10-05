@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: hsl(204, 100%, 80%);
 }
 .card {
   margin: 30px;
@@ -135,12 +135,10 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
+a.instagram {
+  background-image: url(images/instagram.png);
 }
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
 a.github {
   background-image: url(images/github.svg);
 }
@@ -150,7 +148,10 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
-
+.family {
+  width: 150px;
+  height: 150px;
+}
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
