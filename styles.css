@@ -95,7 +95,7 @@ header .profile-image:hover {
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
+  border-radius: 30px;
   transition: all .5s;
 }
 .card:hover {
