@@ -57,7 +57,7 @@
   
   header {
     text-align: center;
-    background: url('images/bridge.JPG') no-repeat top center ;
+    background: url('images/family3.png') no-repeat top center ;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -145,7 +145,10 @@
   .clearfix {
     clear: both;
   }
-  
+  .family {
+    width: 150px;
+    height: 150px;
+  }
   /* Styles for larger screens */
   @media screen and (min-width: 720px) {
     
@@ -183,5 +186,3 @@
     }
   
   }
-  
-  
